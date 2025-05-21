@@ -84,7 +84,7 @@
 # Work Readiness
 ## CV Submission
 ### Evidence
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](220219494MockInterview.mp4)
+<video src="220219494MockInterview.mp4" width="320" height="240" controls></video>
 ### Reflection
 
 

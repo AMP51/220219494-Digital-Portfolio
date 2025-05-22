@@ -18,7 +18,7 @@ Student email: <220219494@mycput.ac.za>
 ### Evidence
 ![alt](CareerDevelopment.jpg)
 ### Reflection
-After completing
+As part of my work readiness modules I was required to reflect on what is a career and how to go about choosing one. After completing this module I took time to consider what I am looking for in a career in terms of goals and aspects relating to the job. I identified that distance, transportation and the abilitiy to grow my talents are important when choosing a career. At the end of the module, I have gained a better understanding of what a career is and how to plan my career journey to align with my goals.
 
 
 ## Skills And Interests
@@ -66,13 +66,13 @@ After completing
 # Work Readiness
 ## CV Submission
 ### Evidence
-![Video](220219494MockInterview.mp4)
+![alt](AshtonPetersenCV.docx)
 ### Reflection
 
 
 ## Mock Interview Video
 ### Evidence
-
+![Video](220219494MockInterview.mp4)
 ### Reflection
 
 

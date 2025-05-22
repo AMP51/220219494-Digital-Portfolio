@@ -1,4 +1,13 @@
 # 220219494-Digital-Portfolio
+
+#Contact Details
+Name: Ashton Mondreo Petersen
+Student Number: 220219494
+Cell Phone Number: 0613524805
+Personal email: <ashtonpetersen0@gmail.com>
+Student email: <220219494@mycput.ac.za>
+
+
 # Modules
 
 ## Career Counseling
@@ -95,4 +104,6 @@
 
 
 # Previous Work
+
+# Relevant LinkedIn Learning Courses
 

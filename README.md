@@ -16,7 +16,7 @@ Student Email: <220219494@mycput.ac.za>
 
 ## Career Counseling
 ### Evidence
-![alt](CareerDevelopment.jpg)
+![Career-Counselling-Results](CareerDevelopment.jpg)
 ### Reflection
 As part of my work readiness modules I was required to reflect on what is a career and how to go about choosing one.
 After completing this module I took time to consider what I am looking for in a career in terms of goals and aspects relating to the job. I identified that distance, transportation and the abilitiy to grow my talents are important when choosing a career.
@@ -25,7 +25,7 @@ At the end of the module, I have gained a better understanding of what a career 
 
 ## Skills And Interests
 ### Evidence
-![alt](SkillsAndInterests.jpg)
+![Skills-And-Interests-Results](SkillsAndInterests.jpg)
 ### Reflection
 A part of my work readiness preperation modules we had to identify the purpose of our values, vocational interests and our skills in our job search. 
 I aimed to identify my values, interests and my skills that could be applied to jobs. Firstly, in order to identify my values to understand what makes me fulfilled and what drives my decisions, then I identify professional interests to work in a career that increases my satisfaction in the position and finally I identify skills in order to have more engagement with the work I do and increase my confidence in my capabilities. 
@@ -33,7 +33,7 @@ This has made me more concious and analytical of my career choices, choosing one
 
 ## Personality Assessment
 ### Evidence
-![alt](PersonalityAssessment.jpg)
+![Personality-Assessment-Results](PersonalityAssessment.jpg)
 ### Reflection
 This work preparedness module outlines what personality traits are desirable in a job, what influences your personality, why knowing your personality is important and what the 6 personality types there are.
 I aimed to identify my personality traits and how it has affected my career choices and what sort of personality fits my desired position.
@@ -43,7 +43,7 @@ After completing the module I have a better understanding of how my personality 
 
 ## Create a CV
 ### Evidence
-![alt](CreateACV.jpg)
+![Create-A-CV-Results](CreateACV.jpg)
 ### Reflection
 In this module, I was tasked with understanding what a CV is and what purpose it serves.
 My goal for this module is to learn what makes a good CV and creating my own CV.
@@ -53,7 +53,7 @@ By the end of the module, I have completed first draft of my CV and have built a
 # Work Readiness
 ## CV Submission
 ### Evidence
-![alt](AshtonPetersenCV.docx)
+![Uploaded-CV-Click-Here-To-Download](AshtonPetersenCV.docx)
 ### Reflection
 I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
 I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.

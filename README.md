@@ -7,9 +7,9 @@ Student Number: 220219494
 
 Cell Phone Number: 0613524805
 
-Personal email: <ashtonpetersen0@gmail.com>
+Personal Email: <ashtonpetersen0@gmail.com>
 
-Student email: <220219494@mycput.ac.za>
+Student Email: <220219494@mycput.ac.za>
 
 
 # Modules
@@ -57,4 +57,4 @@ By the end of the module, I have completed first draft of my CV and have built a
 ### Reflection
 I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
 I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.
-With a
+I edited my CV to outline my goals and have additional information in regards to eligibility for a career while keeping in mind that my CV will be a dynamic document.

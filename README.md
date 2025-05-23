@@ -45,10 +45,16 @@ After completing the module I have a better understanding of how my personality 
 ### Evidence
 ![alt](CreateACV.jpg)
 ### Reflection
-
+In this module, I was tasked with understanding what a CV is and what purpose it serves.
+My goal for this module is to learn what makes a good CV and creating my own CV.
+I worked on the first draft of my CV.
+By the end of the module, I have completed first draft of my CV and have built an understanding of the purpose of creating a CV when marketing myself to potential employers.
 
 # Work Readiness
 ## CV Submission
 ### Evidence
 ![alt](AshtonPetersenCV.docx)
 ### Reflection
+I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
+I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.
+With a

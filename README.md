@@ -53,7 +53,7 @@ By the end of the module, I have completed first draft of my CV and have built a
 # Work Readiness
 ## CV Submission
 ### Evidence
-![alt](AshtonPetersenCV.md)
+![alt](AshtonPetersenCV.docx)
 ### Reflection
 I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
 I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.

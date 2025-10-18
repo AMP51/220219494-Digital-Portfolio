@@ -53,7 +53,7 @@ By the end of the module, I have completed first draft of my CV and have built a
 ## Work Readiness
 ### CV Submission
 #### Evidence
-[Uploaded-CV-Click-Here-To-Download]([AshtonPetersenCV-WIL.docx](https://docs.google.com/document/d/1Q3M5Gce_tJ5_a_tTskNA881lgXKOviXHU_QOXq1_3Cw/edit?usp=sharing))
+[Uploaded-CV-Click-Here-To-Download](https://docs.google.com/document/d/1Q3M5Gce_tJ5_a_tTskNA881lgXKOviXHU_QOXq1_3Cw/edit?usp=sharing)
 #### Reflection
 I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
 I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.
@@ -71,4 +71,5 @@ I edited my CV to outline my goals and have additional information in regards to
 I was assigned a task to create a CV that can be used to professionally market myself to employers and found that my original draft of my CV needed improvement.
 I aimed to add sections to better display my talents, outline my career goals and provide evidence of my academic achievements.
 I edited my CV to outline my goals and have additional information in regards to eligibility for a career while keeping in mind that my CV will be a dynamic document.
+
 
